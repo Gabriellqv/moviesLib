@@ -9,3 +9,7 @@ MoviesLib é um projeto de frontend desenvolvido com React que consome a API do 
 -   **Vite**: Ferramenta de construção e empacotamento rápida para React.
 -   **React Icons**: Para ícones personalizados (usado no projeto para exibir estrelas de avaliação).
 -   **PropTypes**: Para validação de props no React.
+
+## Acesse o site
+
+Você pode acessar o site aqui: [MoviesLib no Vercel](https://movies-lib-flame.vercel.app)
